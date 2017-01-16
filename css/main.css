@@ -1,0 +1,15 @@
+body{
+  background:black;
+}
+.h1 {
+  color:rgb(242, 0, 255)pink;
+}
+.nav-wrapper {
+  background:rgb(158, 0, 138);
+}
+.container {
+  display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: row;
+	flex-direction: row;
+}
